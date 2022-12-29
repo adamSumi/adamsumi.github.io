@@ -1,8 +1,8 @@
 basic:
   name: Adam Sumilong
-  title: |
+  title:
   avatar:
-    display: true
+    display: false
     path: profile.png
 
 contact:
@@ -13,20 +13,20 @@ contact:
   wechat:
   whatsapp:
   telegram:
-  github: adamSumi
+  github:
   gitlab:
   bitbucket:
   googlescholar:
   researchgate:
   linkedin: adam-sumilong
   medium:
-  twitter: twitter
+  twitter:
   stackoverflow:
   quora:
   goodreads:
 
 profile:
-  display: true
+  display: false
   title: Profile
   details: |
     It's your career profile, you can wirte markdown format text.
@@ -125,7 +125,7 @@ education:
         ...
 
 certificates:
-  display: true
+  display: false
   title: Certificates
   items:
     - name: Course Foo
@@ -157,14 +157,14 @@ publications:
       link:
 
 patents:
-  display: true
+  display: false
   title: Patents
   details: |
     This is all my patents.
     + 2020\. A patent name is here. CN123456, filed May 15, 2020, and issued July 20, 2020.
 
 languages:
-  display: true
+  display: false
   title: Languages
   items:
     - idiom: Chinese
@@ -173,7 +173,7 @@ languages:
       level: Professional
 
 interests:
-  display: true
+  display: false
   title: Interests
   items:
     - item: Reading
@@ -182,7 +182,7 @@ interests:
       link:
 
 evaluation:
-  display: true
+  display: false
   title: Self-evaluation
   details: |
     Here is my self evaluation.
