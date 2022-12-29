@@ -45,6 +45,7 @@ experiences:
       tag:
       location: Atlanta, GA
       details: |
+        + Technologies Used: Kotlin, C/C++, Google Glass
         + Utilized C/C++ to develop testing setup and conducted trials to understand real-time captioning preferences on a head-worn display in group conversations, focusing on Deaf and Hard-of-Hearing participants.
 
         ...
@@ -53,8 +54,9 @@ experiences:
       time: May 2022 - August 2022
       company: Qualcomm
       tag: Full-time
-      location: Beijing
+      location: San Diego, CA
       details: |
+        + Technologies Used: Python, PRACTICE/Lauterbach Debugging
         + Worked on independent research and development into generating intrinsic physically unclonable functions (PUFs) on processors to understand the viability of hardware-oriented cryptography prospects in the future.
 
         ...
@@ -68,6 +70,7 @@ projects:
     - name: Portable Long COVID Monitor for Asthmatic Patients
       link: 
       details: |
+        + Technologies Used: Arduino, Python
         + Used Arduino/C++/Python to create an inhaler attachment prototype which measures items such as patients’ tidal breathing volume and other respiratory health information for clinical and individual use.
 
 skills:
@@ -119,7 +122,6 @@ publications:
   display: true
   title: Publications
   intro: |
-    This is all the books I wrote.
 
   items:
     - title: Preferences for Captioning on Emulated Head Worn Displays While in Group Conversation
