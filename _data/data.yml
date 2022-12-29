@@ -43,8 +43,7 @@ experiences:
       tag:
       location: Atlanta, GA
       details: |
-        + Technologies Used: Kotlin, C/C++, Google Glass
-        + Utilized C/C++ to develop testing setup and conducted trials to understand real-time captioning preferences on a head-worn display in group conversations, focusing on Deaf and Hard-of-Hearing participants.
+        + Utilized C/C++ to develop testing setup and conducted trials to understand real-time captioning preferences on a Google Glass head-worn display in group conversations, focusing on Deaf and Hard-of-Hearing participants.
         ...
     - role: Embedded Software Engineering Intern
       time: May 2022 - August 2022
