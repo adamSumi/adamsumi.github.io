@@ -2,7 +2,7 @@ basic:
   name: Adam Sumilong
   title:
   avatar:
-    display: false
+    display: true
     path: profile.png
 
 contact:
@@ -26,7 +26,7 @@ contact:
   goodreads:
 
 profile:
-  display: false
+  display: true
   title: Profile
   details: |
     It's your career profile, you can wirte markdown format text.
@@ -125,7 +125,7 @@ education:
         ...
 
 certificates:
-  display: false
+  display: true
   title: Certificates
   items:
     - name: Course Foo
@@ -157,14 +157,14 @@ publications:
       link:
 
 patents:
-  display: false
+  display: true
   title: Patents
   details: |
     This is all my patents.
     + 2020\. A patent name is here. CN123456, filed May 15, 2020, and issued July 20, 2020.
 
 languages:
-  display: false
+  display: true
   title: Languages
   items:
     - idiom: Chinese
@@ -173,7 +173,7 @@ languages:
       level: Professional
 
 interests:
-  display: false
+  display: true
   title: Interests
   items:
     - item: Reading
@@ -182,7 +182,7 @@ interests:
       link:
 
 evaluation:
-  display: false
+  display: true
   title: Self-evaluation
   details: |
     Here is my self evaluation.
