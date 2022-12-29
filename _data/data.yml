@@ -39,27 +39,23 @@ experiences:
   display: true
   title: Experiences
   items:
-    - role: Backend Developer
-      time: 2018.03 - 2019.03
-      company: Second Company
+    - role: Undergraduate Researcher
+      time: August 2022 - December 2022
+      company: Georgia Tech Contextual Computing Group
       tag:
-      location: Beijing
+      location: Atlanta, GA
       details: |
-        Experience in this company:
-        + First
-        + Second
+        + Utilized C/C++ to develop testing setup and conducted trials to understand real-time captioning preferences on a head-worn display in group conversations, focusing on Deaf and Hard-of-Hearing participants.
 
         ...
 
-    - role: Backend Developer
-      time: 2017.03 - 2018.03
-      company: First Company
-      tag: Remote, part-time
+    - role: Embedded Software Engineering Intern
+      time: May 2022 - August 2022
+      company: Qualcomm
+      tag: Full-time
       location: Beijing
       details: |
-        Experience in this company:
-        + First
-        + Second
+        + Worked on independent research and development into generating intrinsic physically unclonable functions (PUFs) on processors to understand the viability of hardware-oriented cryptography prospects in the future.
 
         ...
 
@@ -67,26 +63,24 @@ projects:
   display: true
   title: Projects
   intro: |
-    This is all the projects I'm involved in.
 
   items:
-    - name: Foo
-      link: https://www.google.com
+    - name: Portable Long COVID Monitor for Asthmatic Patients
+      link: 
       details: |
-        Project Foo's detail, you can write markdown format text.
-
-    - name: Bar
-      link:
-      details: |
-        Project Bar's detail, you can write markdown format text.
 
 skills:
   display: true
   title: Skills
   details: |
-    Here is my skills:
-    + First
-    + Second
+  + MATLAB
+	+ Python
+	+ Java/Kotlin
+	+ C/C++
+	+ PRACTICE
+	+ PLAS
+  + Solidworks/Fusion 360
+  + Laser Cutting
 
     ...
 
@@ -102,25 +96,12 @@ education:
   display: true
   title: Education
   items:
-    - university: Example University
-      time: 2015 - 2018
-      major: Machine Learning
-      degree: Master
-      details: |
-        Experience in this university:
-        + First
-        + Second
-
-        ...
-
-    - university: Example University
-      time: 2011 - 2015
-      major: Computer Science
+    - university: Georgia Institute of Technology
+      time: August 2019 - May 2023
+      major: Biomedical Engineering
       degree: Bachelor
       details: |
-        Experience in this university:
-        + First
-        + Second
+        Minor in Computing & Devices
 
         ...
 
@@ -147,14 +128,10 @@ publications:
     This is all the books I wrote.
 
   items:
-    - title: Foo in Action
-      authors: Foo Bar
-      conference: Foobar, 2019
-      link: https://www.google.com
-    - title: The Art of Bar
-      authors: Foo Bar
-      conference: Foobar, 2019
-      link:
+    - title: Preferences for Captioning on Emulated Head Worn Displays While in Group Conversation
+      authors: Gabriel Wade Britain, David Martin, Tyler Kwok, Adam Sumilong, Thad Starner
+      conference: ACM International Symposium on Wearable Computers, 2022
+      link: https://dl.acm.org/doi/10.1145/3544794.3558468
 
 patents:
   display: false
