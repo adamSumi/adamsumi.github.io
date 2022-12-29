@@ -64,17 +64,16 @@ projects:
     - name: Portable Long COVID Monitor for Asthmatic Patients
       link: 
       details: |
-        + Technologies Used: Arduino, Python
         + Used Arduino/C++/Python to create an inhaler attachment prototype which measures items such as patients’ tidal breathing volume and other respiratory health information for clinical and individual use.
 
 skills:
   display: true
   title: Skills
   details: |
-    | MATLAB | Python |
-    | Java/Kotlin | C/C++ |
-    | PRACTICE | PLAS |
-    | Solidworks/Fusion 360 |        Laser Cutting |
+    | - MATLAB | - Python |
+    | - Java/Kotlin | - C/C++ |
+    | - PRACTICE | - PLAS |
+    | - Solidworks/Fusion 360 | - Laser Cutting |
 
 levels:
 
