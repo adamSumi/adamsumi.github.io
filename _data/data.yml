@@ -73,6 +73,7 @@ skills:
   display: true
   title: Skills
   details: |
+  :
   + MATLAB
   + Python
   + Java/Kotlin
