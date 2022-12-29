@@ -1,6 +1,6 @@
 basic:
   name: Adam Sumilong
-  title:
+  title: |
   avatar:
     display: true
     path: profile.png
