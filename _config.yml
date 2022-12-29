@@ -1,7 +1,7 @@
 # Welcome to Jekyll!
 title: Adam Sumilong
-url: adamsumi.github.io
-baseurl: adamsumi.github.io
+url:
+baseurl:
 
 # Sass setting
 sass:
