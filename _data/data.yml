@@ -37,6 +37,7 @@ experience:
   display: true
   title: Experience
   items:
+  
     - role: Embedded Software Engineering Intern
       time: May 2022 - present
       company: Qualcomm
@@ -56,8 +57,7 @@ experience:
       location: Atlanta, GA
       details: |
         + Technologies Used: Google Glass, Kotlin, CLion
-        + Utilized C/C++ to develop testing setup and conducted trials to understand real-time captioning preferences on a head-worn display in group conversations, focusing on Deaf and Hard-of-Hearing participants.
-        
+        + Utilized C/C++ to develop testing setup and conducted trials to understand real-time captioning preferences on a head-worn display in group conversations, focusing on Deaf and Hard-of-Hearing participants.       
 projects:
   display: true
   title: Projects
