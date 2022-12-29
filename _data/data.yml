@@ -33,7 +33,7 @@ profile:
     + First
     + Second
 
-experience:
+experiences:
   display: true
   title: Experience
   items:
