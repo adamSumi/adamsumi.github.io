@@ -29,31 +29,35 @@ profile:
   display: false
   title: Profile
   details: |
-    It's your career profile, you can wirte markdown format text.
+    It's your career profile, you can write markdown format text.
     + First
     + Second
 
-experiences:
+experience:
   display: true
-  title: Experiences
+  title: Experience
   items:
+    - role: Embedded Software Engineering Intern
+      time: May 2022 - present
+      company: Qualcomm
+      tag: Full-time
+      location: San Diego, CA
+      details: |
+        + Technologies Used: Python, PRACTICE/Lauterbach Debugging, RB5 Robotics Platform
+        + Worked on independent research and development into generating intrinsic physically unclonable functions (PUFs) on processors to understand the viability of hardware-oriented cryptography prospects in the future.
+        + Tested functionality and usability of Thundercomm RB5 Robotics platform against similar commercial products.
+        
+        ...
+    
     - role: Undergraduate Researcher
       time: August 2022 - December 2022
       company: Georgia Tech Contextual Computing Group
       tag:
       location: Atlanta, GA
       details: |
-        + Utilized C/C++ to develop testing setup and conducted trials to understand real-time captioning preferences on a Google Glass head-worn display in group conversations, focusing on Deaf and Hard-of-Hearing participants.
-        ...
-    - role: Embedded Software Engineering Intern
-      time: May 2022 - August 2022
-      company: Qualcomm
-      tag: Full-time
-      location: San Diego, CA
-      details: |
-        + Technologies Used: Python, PRACTICE/Lauterbach Debugging
-        + Worked on independent research and development into generating intrinsic physically unclonable functions (PUFs) on processors to understand the viability of hardware-oriented cryptography prospects in the future.
-
+        + Technologies Used: Google Glass, Kotlin, CLion
+        + Utilized C/C++ to develop testing setup and conducted trials to understand real-time captioning preferences on a head-worn display in group conversations, focusing on Deaf and Hard-of-Hearing participants.
+        
 projects:
   display: true
   title: Projects
@@ -63,6 +67,7 @@ projects:
     - name: Portable Long COVID Monitor for Asthmatic Patients
       link: 
       details: |
+        + Technologies Used: Solidworks/Fusion 360
         + Used Arduino/C++/Python to create an inhaler attachment prototype which measures items such as patients’ tidal breathing volume and other respiratory health information for clinical and individual use.
 
 skills:
@@ -85,7 +90,7 @@ education:
       major: Biomedical Engineering
       degree: Bachelor
       details: |
-        Minor in Computing & Devices
+        Minor in Computer Science: Computing & Devices
 
 
 certificates:
