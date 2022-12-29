@@ -71,8 +71,9 @@ skills:
   display: true
   title: Skills
   details: |
-    |      MATLAB     |      Python     |      Java/Kotlin     |      C/C++      |
-    |      PRACTICE     |      PLAS     |      Solidworks/Fusion 360     |      Laser Cutting     |
+    |:-:|:-:|:-:|:-:|
+    | MATLAB | Python | Java/Kotlin | C/C++ |
+    | PRACTICE | PLAS | Solidworks/Fusion 360 | Laser Cutting |
 
 levels:
 
