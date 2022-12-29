@@ -1,24 +1,24 @@
 basic:
-  name: Foo Bar
-  title: Backend Developer
+  name: Adam Sumilong
+  title:
   avatar:
-    display: true
+    display: false
     path: profile.png
 
 contact:
-  location:
-  email: me@example.com
-  phone: +86-111-2222-3333
-  website: example.com
+  location: Atlanta, GA
+  email: adam.sumilong@gmail.com
+  phone: +1(706)508-2744
+  website: adamsumi.github.io
   wechat:
   whatsapp:
   telegram:
-  github: github
+  github: adamSumi
   gitlab:
   bitbucket:
   googlescholar:
   researchgate:
-  linkedin:
+  linkedin: adam-sumilong
   medium:
   twitter: twitter
   stackoverflow:
@@ -26,7 +26,7 @@ contact:
   goodreads:
 
 profile:
-  display: true
+  display: false
   title: Profile
   details: |
     It's your career profile, you can wirte markdown format text.
@@ -125,7 +125,7 @@ education:
         ...
 
 certificates:
-  display: true
+  display: false
   title: Certificates
   items:
     - name: Course Foo
@@ -157,14 +157,14 @@ publications:
       link:
 
 patents:
-  display: true
+  display: false
   title: Patents
   details: |
     This is all my patents.
     + 2020\. A patent name is here. CN123456, filed May 15, 2020, and issued July 20, 2020.
 
 languages:
-  display: true
+  display: false
   title: Languages
   items:
     - idiom: Chinese
@@ -173,7 +173,7 @@ languages:
       level: Professional
 
 interests:
-  display: true
+  display: false
   title: Interests
   items:
     - item: Reading
@@ -182,7 +182,7 @@ interests:
       link:
 
 evaluation:
-  display: true
+  display: false
   title: Self-evaluation
   details: |
     Here is my self evaluation.
