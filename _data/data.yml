@@ -33,8 +33,6 @@ profile:
     + First
     + Second
 
-    ...
-
 experiences:
   display: true
   title: Experiences
@@ -58,8 +56,6 @@ experiences:
       details: |
         + Technologies Used: Python, PRACTICE/Lauterbach Debugging
         + Worked on independent research and development into generating intrinsic physically unclonable functions (PUFs) on processors to understand the viability of hardware-oriented cryptography prospects in the future.
-
-        ...
 
 projects:
   display: true
@@ -86,7 +82,6 @@ skills:
     + Solidworks/Fusion 360
     + Laser Cutting
 
-    ...
 levels:
 
 education:
@@ -100,7 +95,6 @@ education:
       details: |
         Minor in Computing & Devices
 
-        ...
 
 certificates:
   display: false
