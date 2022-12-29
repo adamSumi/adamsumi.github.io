@@ -143,12 +143,10 @@ interests:
       link:
 
 evaluation:
-  display: false
-  title: Self-evaluation
+  display: true
+  title: Honors & Awards
   details: |
-    Here is my self evaluation.
-    + First
-    + Second
+    + Deans List 2019-2022
 
     ...
 
