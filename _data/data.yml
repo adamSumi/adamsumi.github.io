@@ -74,23 +74,15 @@ skills:
   title: Skills
   details: |
   + MATLAB
-	+ Python
-	+ Java/Kotlin
-	+ C/C++
-	+ PRACTICE
-	+ PLAS
+  + Python
+  + Java/Kotlin
+  + C/C++
+  + PRACTICE
+  + PLAS
   + Solidworks/Fusion 360
   + Laser Cutting
 
     ...
-
-  levels:
-    - name: Skill A
-      level: 90
-    - name: Skill B
-      level: 80
-    - name: Skill C
-      level: 70
 
 education:
   display: true
