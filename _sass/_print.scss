@@ -1,11 +1,11 @@
 @media print {
     @page {
         size: letter;
-        margin: 1.5cm 1.5cm;
+        margin: .75cm .75cm;
     }
 
     @page :first {
-        margin-top: 1.5cm;
+        margin-top: .75cm;
     }
 
     body {
