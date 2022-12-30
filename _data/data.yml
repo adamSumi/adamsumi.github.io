@@ -71,7 +71,7 @@ projects:
         + Technologies Used: Solidworks/Fusion 360
         + Used Arduino/C++/Python to create an inhaler attachment prototype which measures items such as patients’ tidal breathing volume and other respiratory health information for clinical and individual use.
          
-    - name: Athena : A Low-Cost Backdrivable Arm
+    - name: Athena - A Low-Cost Backdrivable Arm
       link:
       details: |
         + Technologies Used: Arduino, UDP, Drake/ROS
