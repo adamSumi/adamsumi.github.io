@@ -57,8 +57,9 @@ experiences:
       details: |
         + Technologies Used: Google Glass, Kotlin, CLion
         + Utilized C/C++ to develop testing setup and conducted trials to understand real-time captioning preferences on a head-worn display in group conversations, focusing on Deaf and Hard-of-Hearing participants.
-         
-
+        
+        ...
+        
 projects:
   display: true
   title: Projects
@@ -79,6 +80,9 @@ projects:
         + Technologies Used: Arduino, UDP, Drake/ROS
         + Utilized the Drake C++ framework to help in creating an inverse kinematic controller for the Athena robotic arm.
         + Aided in developing low-level testing frameworks in order to determine viability of motor torque against various loads.
+        
+        ...
+        
 skills:
   display: true
   title: Skills
@@ -99,9 +103,9 @@ education:
       major: Biomedical Engineering
       degree: Bachelor
       details: |
-        Minor in Computer Science: Computing & Devices
+       Minor in Computer Science: Computing & Devices
          
-
+       ... 
 
 certificates:
   display: false
