@@ -38,7 +38,7 @@ experiences:
   title: Experience
   items:
     - role: Embedded Software Engineering Intern
-      time: May 2022 - present
+      time: May 2022 - Present
       company: Qualcomm
       tag: Full-time
       location: San Diego, CA
@@ -46,20 +46,21 @@ experiences:
         + Technologies Used: Python, PRACTICE/Lauterbach Debugging, RB5 Robotics Platform
         + Worked on independent research and development into generating intrinsic physically unclonable functions (PUFs) on processors to understand the viability of hardware-oriented cryptography prospects in the future.
         + Tested functionality and usability of Thundercomm RB5 Robotics platform against similar commercial products.
-        
+
         ...
-    
+
     - role: Undergraduate Researcher
       time: August 2022 - December 2022
       company: Georgia Tech Contextual Computing Group
-      tag:
+      tag: Research Course
       location: Atlanta, GA
       details: |
-        + Technologies Used: Google Glass, Kotlin, CLion
-        + Utilized C/C++ to develop testing setup and conducted trials to understand real-time captioning preferences on a head-worn display in group conversations, focusing on Deaf and Hard-of-Hearing participants.
-        
+        + Technologies Used: Google Glass, Kotlin, CLion, CMake
+        + Utilized C/C++ to develop testing apparatus and conducted trials to understand real-time captioning preferences on a head-worn display in group conversations, focusing on Deaf and Hard-of-Hearing participants.
+        + Aided in streamlining installation and deployment procedures for conducting in-person demonstrations and user trials.
+
         ...
-        
+
 projects:
   display: true
   title: Projects
@@ -67,22 +68,22 @@ projects:
 
   items:
     - name: Portable Long COVID Monitor for Asthmatic Patients
-      link: 
+      link:
       details: |
         + Technologies Used: Solidworks/Fusion 360
         + Used Arduino/C++/Python to create an inhaler attachment prototype which measures items such as patients’ tidal breathing volume and other respiratory health information for clinical and individual use.
-        
+
         ...
-        
+
     - name: Athena - A Low-Cost Backdrivable Arm
       link:
       details: |
         + Technologies Used: Arduino, UDP, Drake/ROS
         + Utilized the Drake C++ framework to help in creating an inverse kinematic controller for the Athena robotic arm.
         + Aided in developing low-level testing frameworks in order to determine viability of motor torque against various loads.
-        
+
         ...
-        
+
 skills:
   display: true
   title: Skills
@@ -104,7 +105,7 @@ education:
       degree: Bachelor
       details: |
        Minor in Computer Science: Computing & Devices
-       
+
 certificates:
   display: false
   title: Certificates
@@ -162,7 +163,7 @@ evaluation:
   title: Honors & Awards
   details: |
     + Deans List 2019-2022
-    
+
     ...
 
 footer:
