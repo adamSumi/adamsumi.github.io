@@ -6,7 +6,7 @@ basic:
     path: profile.png
 
 contact:
-  location: Atlanta, GA
+  location:
   email: adam.sumilong@gmail.com
   phone: +1(706)508-2744
   website: adamsumi.github.io
