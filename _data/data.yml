@@ -68,7 +68,7 @@ projects:
   intro: |
 
   items:
-    - name: Eye.See.U: Making Vision Accessible
+    - name: Eye.See.U - Making Vision Accessible
       link: 
       details: |
         + Technologies Used: 3D printing, Autodesk Fusion 360, User-Centered Design
@@ -78,7 +78,7 @@ projects:
         
         ...
         
-    - name: Captioning on Glass: Group Conversations
+    - name: Captioning on Glass - Group Conversations
       link: 
       details: |
         + Technologies Used: Google Glass, Kotlin, CLion, CMake
