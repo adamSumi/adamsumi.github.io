@@ -38,7 +38,7 @@ experiences:
   title: Experience
   items:
     - role: Embedded Software Engineering Intern
-      time: May 2022 - Present
+      time: May 2022 - May 2023
       company: Qualcomm
       tag: Full-time
       location: San Diego, CA
@@ -58,6 +58,7 @@ experiences:
         + Technologies Used: Google Glass, Kotlin, CLion, CMake
         + Utilized C/C++ to develop testing apparatus and conducted trials to understand real-time captioning preferences on a head-worn display in group conversations, focusing on Deaf and Hard-of-Hearing participants.
         + Aided in streamlining installation and deployment procedures for conducting in-person demonstrations and user trials.
+        + Presented at the International Symposium on Wearable Computing 2022.
 
         ...
 
@@ -67,6 +68,25 @@ projects:
   intro: |
 
   items:
+    - name: Eye.See.U: Making Vision Accessible
+      link: 
+      details: |
+        + Technologies Used: 3D printing, Autodesk Fusion 360, User-Centered Design
+        + Developed a contact lens applicator for individuals with tetraplegia, sponsored by the Shepherd Center.
+        + Aided in organizing and conducting user interviews with patients, vendors and physicians associated with spinal cord injuries and current technologies regarding contact lenses and disability aids.
+        + Served as point on 3D printing prototypes and fabricating various designing for testing and integration with other design components.
+        
+        ...
+        
+    - name: Captioning on Glass: Group Conversations
+      link: 
+      details: |
+        + Technologies Used: Google Glass, Kotlin, CLion, CMake
+        + Led a team in creating a Wizard of Oz simulation to gather input on real-time captioning methods in a group conversation setting using a head-worn display for the deaf and hard-of-hearing (DHH). 
+        + Worked to help create the physical prototype, write the code/algorithm used to send the head orientation data from the Google Glass HWD to the external server, run pilot and user studies, and analyze the results from those studies.
+
+        ...
+        
     - name: Portable Long COVID Monitor for Asthmatic Patients
       link:
       details: |
