@@ -37,6 +37,17 @@ experiences:
   display: true
   title: Experience
   items:
+  - role: Software Engineer
+      time: July 2023 - Current
+      company: Qualcomm
+      tag: Full-time
+      location: San Diego, CA
+      details: |
+        + Technologies Used: Python, Java, MySQL, Dash, Springboot, React, Kafka, AWS S3
+        + Maintained and developed services for data aggregation and processing from end-user devices.
+        + Aided in creating and analyzing novel methods of data communication and server performance of the team's various deployments.
+        
+        ...
     - role: Embedded Software Engineering Intern
       time: May 2022 - May 2023
       company: Qualcomm
@@ -52,7 +63,7 @@ experiences:
     - role: Undergraduate Researcher
       time: August 2022 - December 2022
       company: Georgia Tech Contextual Computing Group
-      tag: Research Course
+      tag: Research
       location: Atlanta, GA
       details: |
         + Technologies Used: Google Glass, Kotlin, CLion, CMake
@@ -112,6 +123,9 @@ skills:
     | - Java/Kotlin | - C/C++ |
     | - PRACTICE | - PLAS |
     | - Solidworks/Fusion 360 | - Laser Cutting |
+    | - Spring Boot | - SQL |
+    | - Dash | - Kafka |
+    | - AWS | - Team Communication |
 
 levels:
 
@@ -182,7 +196,7 @@ evaluation:
   display: true
   title: Honors & Awards
   details: |
-    + Deans List 2019-2022
+    + Deans List 2019-2023
 
     ...
 
