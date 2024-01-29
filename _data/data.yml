@@ -36,8 +36,8 @@ profile:
 experiences:
   display: true
   title: Experience
-  items:
-  - role: Software Engineer
+  items: 
+    - role: Software Engineer
       time: July 2023 - Current
       company: Qualcomm
       tag: Full-time
